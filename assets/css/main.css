@@ -1,6 +1,5 @@
 #wrapper {
 	position: relative;
-	padding: 10%;
     text-align: center;
     top: 7em;
     font-family:'Roboto', sans-serif;
@@ -10,8 +9,8 @@
 	margin: 10px;
 }
 ul.social {
-    margin: 0; /* Обнуляем значение отступов */
-    padding: 10px; /* Значение полей */
+    margin: 0; 
+    padding: 10px; 
     margin:;
 }
 li.social-item {
