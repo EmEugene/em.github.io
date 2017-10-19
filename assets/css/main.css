@@ -1,0 +1,33 @@
+#wrapper {
+	position: relative;
+    text-align: center;
+    top: 7em;
+    font-family:'Roboto', sans-serif;
+}
+#name {
+	font-size: 4em;
+	margin: 10px;
+}
+ul.social {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 10px; /* Значение полей */
+    margin:;
+}
+li.social-item {
+	padding: 15px;
+	list-style-type: none;
+	display: inline;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+}
+a:hover {
+	color: red;
+	text-decoration: underline;
+	text-decoration-color: red;
+}
