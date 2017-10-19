@@ -1,5 +1,6 @@
 #wrapper {
 	position: relative;
+	padding: 10%;
     text-align: center;
     top: 7em;
     font-family:'Roboto', sans-serif;
@@ -31,3 +32,11 @@ a:hover {
 	text-decoration: underline;
 	text-decoration-color: red;
 }
+
+@media screen and (min-width: 568px) {
+  #wrapper {
+    font-size: 160%;
+    
+  }
+
+
